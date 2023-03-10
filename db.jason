@@ -1,72 +1,72 @@
 {
-  "records": [
+  "football club": [
     {
       "id": 1,
-      "title": "Songs in the key of life",
-      "artist": "Stevie Wonder",
-      "year": 1976,
-      "company": "Motown"
+      "name": "AC Milan",
+      "founder": "Herbert Kilpin",
+      "year": 1899,
+      "city": "Milan"
     },
     {
       "id": 2,
-      "title": "Kind of Blue",
-      "artist": "Miles Davis",
-      "year": 1959,
-      "company": "Columbia"      
+      "name": "FC Chelsea",
+      "founder": "Todd Boehly",
+      "year": 1905,
+      "city": "London"      
     },
     {
       "id": 3,
-      "title": "Synchronicity",
-      "artist": "The Police",
-      "year": 1983,
-      "company": "A&M"      
+      "name": "Real Madrid",
+      "founder": "Adolfo Meléndez",
+      "year": 1902,
+      "city": "Madrid"      
     },
     {
       "id": 4,
-      "title": "Bach - Goldberg Variations",
-      "artist": "Glenn Gould",
-      "year": 1955,
-      "company": "Sony Classical"      
+      "name": "Borussia Dortmund",
+      "founder": "Franz Jacobi",
+      "year": 1909,
+      "city": "Dortmund"      
     }    
   ],
-  "artists": [
+  "football club": [
     {
       "id": 1,
-      "name": "Stevie Wonder",
-      "birthdate": "13/05/1950"
+      "name": "AC Milan",
+      "foundation": "13/05/1950"
     },
     {
       "id": 2,
-      "name": "Miles Davis",
-      "birthdate": "26/05/26"
+      "name": "FC Chelsea",
+      "foundation": "26/05/26"
     },
     {
       "id": 3,
-      "name": "Sting",
-      "birthdate": "02/10/1951"
+      "name": "Real Madrid",
+      "foundation": "02/10/1951"
     },
     {
       "id": 4,
-      "name": "Glenn Gould",
-      "birthdate": "25/09/1932"
+      "name": "Borussia Dortmund",
+      "foundation": "25/09/1932"
     } 
   ],
-  "companies": [
+  "city": [
     {
       "id": 1,
-      "name": "Motown"
+      "name": "Milan"
     },
     {
       "id": 2,
-      "name": "Columbia"
+      "name": "London"
     },
     {
       "id": 3,
-      "name": "A&M"
+      "name": "Madrid"
     },
     {
       "id": 4,
-      "name": "Sony Classical"
+      "name": "Dortmund"
     }
   ]
 }
