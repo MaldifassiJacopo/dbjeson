@@ -1,0 +1,32 @@
+{
+  "club":[
+    {
+      "id": 1,
+      "name": "AC Milan",
+      "founder": "Herbert Kilpin",
+      "year": 1899,
+      "city": "Milan"
+    },
+    {
+      "id": 2,
+      "name": "FC Chelsea",
+      "founder": "Todd Boehly",
+      "year": 1905,
+      "city": "London"      
+    },
+    {
+      "id": 3,
+      "name": "Real Madrid",
+      "founder": "Adolfo Meléndez",
+      "year": 1902,
+      "city": "Madrid"      
+    },
+    {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "founder": "Franz Jacobi",
+      "year": 1909,
+      "city": "Dortmund"      
+    }    
+  ]
+}
